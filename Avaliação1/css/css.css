@@ -1,0 +1,62 @@
+@font-face {font-family:LSANSD ;
+            src: url(../fonte/LSANSD.TTF);}
+
+body{font-family:LSANSD; src:url(../fonte/LSANSD.TTF);
+    background-color:#5b9bbe ;}
+
+ 
+nav {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-color: #d9d3c3;} 
+
+nav a {text-decoration: none;}
+
+    .botaosherlock{color: #3d1a06;
+                text-align: right;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                left: 1600px;;
+                position: relative;
+                bottom: 35px}
+
+    .botaolupin{color: #3d1a06;
+                text-align: right;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                left: 1600px;;
+                position: relative;
+                bottom: 35px;}
+                
+
+    .logo {background-color: #d9d3c3;}
+
+    
+h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:#3d1a06 ;}
+
+            .lupim{width: 600px;
+                    position: relative;
+                    left: 1250px;
+                    bottom: 200px;
+                    border-radius: 20px}
+
+
+            .holmes{width: 600px;
+                    position: relative;
+                    left: 1250px;
+                    bottom: 200px;
+                    border-radius: 20px}
+
+    
+p {text-align: left;
+    position: relative;
+    width: 800px}
+            
+
+footer {text-align: center;
+        background-color: #d9d3c3;}
+        
+        
+        
+
+
+
+
